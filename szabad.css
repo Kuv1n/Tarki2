@@ -1,0 +1,114 @@
+body {
+  background-image: url(./hat.png);
+  font-family: Arial;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+main {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+h1,
+h2,
+h3 {
+  color: white;
+  text-align: center;
+}
+p {
+  margin-left: 100px;
+  margin-right: 100px;
+  color: white;
+}
+
+.történet {
+  color: white;
+  text-align: justify;
+
+  margin-left: 2%;
+  padding-left: 3%;
+  margin-right: 40%;
+  padding-right: 25%;
+  margin-bottom: 10%;
+}
+
+.story {
+  text-align: justify;
+  margin-left: 60%;
+  padding-left: 1%;
+  margin-right: 5%;
+  padding-right: 1%;
+  padding-bottom: 1%;
+}
+.kép {
+  border: none;
+}
+.logo {
+  margin-left: 25%;
+  width: 300px;
+}
+
+.játék {
+  text-align: justify;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a {
+  background-color: rgba(12, 12, 12, 0.589);
+}
+
+ul {
+  list-style-type: square;
+}
+
+th {
+  text-align: center;
+}
+
+.film {
+  padding: 0%;
+  margin: none;
+}
+
+.film table {
+  table-layout: fixed;
+  width: auto;
+  margin: 0 auto;
+  padding-top: 5%;
+}
+
+.eft {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  padding-top: 1rem;
+}
+
+.fullgame h1 {
+  text-align: left;
+  margin-left: 3%;
+  padding-left: 1%;
+  padding-bottom: 3%;
+  padding-top: 5%;
+}
+
+.menupic {
+  width: 600px;
+  margin-right: 11%;
+}
+
+video {
+  margin: 11%;
+}
+
+.trade {
+  margin: 6%;
+}
